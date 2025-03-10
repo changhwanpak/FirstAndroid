@@ -20,12 +20,12 @@
               android:textColor="@color/white"
               android:textSize="38sp"
               />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/greeting11"
+            android:text="greeting11"
             android:textColor="@color/white"
-            android:textSize="35sp"
-            />
+            android:textSize="35sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
